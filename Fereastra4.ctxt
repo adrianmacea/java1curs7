@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fereastra4
+comment1.params=nume
+comment1.target=Fereastra4(java.lang.String)
+comment2.params=ev
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=3

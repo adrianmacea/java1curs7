@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Persoana
+comment0.text=\n\ exercitiu\ recapitulativ\n\ mostenirea\ unei\ clase\ abstarcte\ complet\ incapsulate\n\ \n\ avem\ doua\ variante\ de\ a\ realiza\ constructorul\ clasei\ child\:\n\ cu\ super\ -\ vezi\ clasa\ Student\n\ cu\ setteri\ -\ vezi\ clasa\ Angajat\n
+comment1.params=
+comment1.target=Persoana()
+comment2.params=nume\ prenume
+comment2.target=Persoana(java.lang.String,\ java.lang.String)
+comment3.params=nume
+comment3.target=void\ setNume(java.lang.String)
+comment4.params=prenume
+comment4.target=void\ setPrenume(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNume()
+comment6.params=
+comment6.target=java.lang.String\ getPrenume()
+numComments=7

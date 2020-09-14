@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=E06GridLayout
+comment1.params=
+comment1.target=E06GridLayout()
+comment2.params=ev
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
